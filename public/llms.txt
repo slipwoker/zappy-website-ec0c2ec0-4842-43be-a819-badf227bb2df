@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-ec0c2ec0.zappy5.app
+https://example.com
 משרד בוטיק מוביל בדיני מיסוי מוניציפלי, המייצג אך ורק משלמי מיסים מול רשויות. נכונים להיאבק על כל שקל עבור העסק שלך. פנה עוד היום לייעוץ ראשוני.
 
 ### אודות
-https://-ec0c2ec0.zappy5.app/about
+https://example.com/about
 שני עשורים של מומחיות בלעדית בארנונה, היטלי פיתוח והשבחה. הכירו את הפילוסופיה מאחורי המשרד שמגן על אינטל, מקורות והתאחדות התעשיינים. הצטרפו למועדון הלקוחות המוביל.
 
 ### שירותים
-https://-ec0c2ec0.zappy5.app/services
+https://example.com/services
 ייצוג בלתי מתפשר בסכסוכי ארנונה, היטלי פיתוח, חיובי מים ותובענות ייצוגיות בסך מיליארדי שקלים. גלה כיצד נהפוך את החוק למנוף הצמיחה שלך מול העירייה.
 
 ### צור קשר
-https://-ec0c2ec0.zappy5.app/contact
+https://example.com/contact
 מוכנים להפסיק לשלם יותר מדי? השאר פרטים ומומחה המיסוי המוניציפלי שלנו יחזור אליך עם אסטרטגיה ראשונית. כי כל יום של תשלום עודף הוא הפסד לעסק שלך.
 
 ### תודה רבה - פנייתך התקבלה | מוסקוביץ, אזרואל
-https://-ec0c2ec0.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. קיבלנו את הודעתך בנושא שירותים משפטיים לתאגידים ונחזור אליך בהקדם עם מענה מקצועי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ec0c2ec0.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ec0c2ec0.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ec0c2ec0.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-ec0c2ec0.zappy5.app/contact
-- Endpoint: https://-ec0c2ec0.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ec0c2ec0.zappy5.app/sitemap.xml
-- Robots: https://-ec0c2ec0.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ec0c2ec0.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
